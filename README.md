@@ -1,1 +1,1 @@
-# SQL-Interview-Questions
+# SQL Coding and Query questions
